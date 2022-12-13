@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProcessVowel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProcessVowel_jar</output-path>
+    <root id="archive" name="ProcessComunication.jar">
+      <element id="module-output" name="ProcessComunication" />
+    </root>
+  </artifact>
+</component>

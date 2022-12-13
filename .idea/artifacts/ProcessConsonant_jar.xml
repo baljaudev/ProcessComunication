@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProcessConsonant:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProcessConsonant_jar</output-path>
+    <root id="archive" name="ProcessComunication.jar">
+      <element id="module-output" name="ProcessComunication" />
+    </root>
+  </artifact>
+</component>

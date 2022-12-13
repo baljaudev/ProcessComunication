@@ -1,0 +1,2 @@
+-La suma de las vocales del archivo es: 4
+-La suma de las consonantes del archivo es: 5
